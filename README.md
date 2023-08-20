@@ -1,4 +1,4 @@
-# PyEncryptor V3.0
+# PyEnc V3.0
 A Python Tool To Encode Your Python Scripts.
 
 ### Supports :
@@ -39,10 +39,7 @@ python2 PyEnc.py
 ``` shell script
 python PyEnc.py
 ```
-## ScreenShot:
-<img src="https://h.top4top.io/p_2557dnwon0.jpg" alt="PyEncryptor Screenshot">
-
-## Enjoy 💞💞
+## Enjoy🐱‍👤
 
 <br><br>
 # Visitors:
