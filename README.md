@@ -25,7 +25,7 @@ apt upgrade -y
 
 pkg install python python2 git -y
 
-git clone https://github.com/innominate-web/PyEnc
+git clone https://github.com/EvilSoul-X/PyEnc
 
 cd PyEnc
 ```
