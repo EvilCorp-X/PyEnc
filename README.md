@@ -25,9 +25,9 @@ apt upgrade -y
 
 pkg install python python2 git -y
 
-git clone https://github.com/Toxic-Noob/PyEncryptor
+git clone https://github.com/innominate-web/PyEnc
 
-cd PyEncryptor
+cd PyEnc
 ```
 ( Choose Your Python Version )
 
